@@ -48,8 +48,6 @@ coverage.xml
 *.log
 *.py
 *.html
-*.txt
-
 
 # Sphinx documentation
 docs/_build/
